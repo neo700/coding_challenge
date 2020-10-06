@@ -4,7 +4,7 @@
 C++ 11 Compiler
 
 #Use
-run 
+run in the project folder
 ```bash
 make
 ```
